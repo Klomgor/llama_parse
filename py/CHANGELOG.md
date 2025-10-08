@@ -1,5 +1,11 @@
 # llama-cloud-services-py
 
+## 0.6.74
+
+### Patch Changes
+
+- 24166dc: Now only escape single dollar signs - preserve double for latex equations
+
 ## 0.6.73
 
 ### Patch Changes
